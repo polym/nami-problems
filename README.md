@@ -9,3 +9,7 @@
 2. [GIF图片无法识别](http://gitlab.widget-inc.com/upyun/marine/issues/1608)
 
 ![](http://nami-image.b0.upaiyun.com/errors/identify/a.gif_/scale/50)
+
+3. [GIF图片Abort]()
+
+![](http://nami-image.b0.upaiyun.com/errors/abort/x.gif_/scale/51)
