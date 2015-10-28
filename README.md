@@ -12,4 +12,6 @@
 
 3. [GIF图片Abort]()
 
+> 问题原因为大图作图是 Nami 所用的虚拟内存超过系统的设定，进程被系统干掉
+
 ![](http://nami-image.b0.upaiyun.com/errors/abort/x.gif_/scale/51)
